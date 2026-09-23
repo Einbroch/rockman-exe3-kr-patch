@@ -15,8 +15,8 @@
 
 | 판 | 패치 파일 | 원본 ROM SHA-256 |
 |---|---|---|
-| 화이트 | `RockmanEXE3_White_JP_Rev1_KR_v0.9.1.xdelta` | `416aa3d4be363fa3032343c754c924c4d367735dafb5b9158bb2ec234458d2f4` |
-| 블랙 | `RockmanEXE3_Black_JP_Rev1_KR_v0.9.1.xdelta` | `f35f6b8a03049e4f23f8cc8c814a846bb5846b21fb8ee24ef40596a9d7554a49` |
+| 화이트 | `RockmanEXE3_White_JP_Rev1_KR_v0.9.2.xdelta` | `416aa3d4be363fa3032343c754c924c4d367735dafb5b9158bb2ec234458d2f4` |
+| 블랙 | `RockmanEXE3_Black_JP_Rev1_KR_v0.9.2.xdelta` | `f35f6b8a03049e4f23f8cc8c814a846bb5846b21fb8ee24ef40596a9d7554a49` |
 
 원본 ROM 의 해시가 위와 다르면 적용되지 않습니다. **Rev 1** 이어야 합니다.
 
@@ -24,8 +24,8 @@
 
 | 판 | 패치 적용 결과 SHA-256 |
 |---|---|
-| 화이트 | `13f0fa3fcd7bf1d607371b24e6a17a8d7c8445f6607f48d871e179dd19a3fd92` |
-| 블랙 | `31a632aa16be0269c0f709f73554d9db8be7809d29aca1347a70d24b93fd9528` |
+| 화이트 | `dffe65c3f9e40a7d8e3dcdb7a0a2211fafeafad90dc0a4aefa61baa3c3b0a837` |
+| 블랙 | `d6c90c6e7e6eb1d9165d7557f26504161abe81039bb253586be2964579f7ac8e` |
 
 패치 파일은 만든 뒤 **원본에 다시 적용해서 위 해시가 나오는지 확인**한 것만
 넣었습니다.
@@ -54,7 +54,7 @@
 ## 아직 안 된 것 · 알려진 문제
 
 이 패치는 **전체 통과 플레이 검증이 끝나지 않았습니다.** 그래서 v1.0 이 아니라
-v0.9.1 입니다.
+v0.9.2 입니다.
 
 - **후반부 시나리오·이벤트·엔딩은 눈으로 확인하지 못했습니다.** 게이트는 전부
   통과했지만, 못 가 본 화면에 문제가 남아 있을 수 있습니다.
